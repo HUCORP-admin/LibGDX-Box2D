@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="40" height="23" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="65">
+ <tileset firstgid="1" source="platforms.tsx"/>
+ <tileset firstgid="19" source="images.tsx"/>
+ <tileset firstgid="22" source="objects.tsx"/>
+ <layer id="2" name="background" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6HzUP9eJ2JfSFg1VVVVfT55NURJ
+  </data>
+ </layer>
+ <layer id="3" name="extras" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaQBCIhSjgE2MmNeRGwSgYBaNgFIyCUTAKRsEoGAWjYKQCAPMkAPY=
+  </data>
+ </layer>
+ <layer id="4" name="platforms" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztlt0KwCAIRt1PzD3A3v9V181gRLo2cyp04CMIqgOZBDAYxOcgRilrzixMatw/FfPcOk9Eco3CZi3AcNXs33dudS7F27pHLZEbX98igp6ftD8gyP3KPt6rhhD6+GlQunnyq7l58aPcPPhxbtZ+T26Wfi1uNb8J5P8/rSw5u/OcOr4EPw==
+  </data>
+ </layer>
+ <objectgroup id="6" name="objectData">
+  <object id="3" name="player" x="47.5" y="567.333" width="48" height="64"/>
+  <object id="9" name="platform" x="0.0606061" y="672.152" width="1279.94" height="63.6667"/>
+  <object id="16" name="coin" x="387.25" y="643.25" width="25.375" height="25.25"/>
+  <object id="17" name="coin" x="675.412" y="643.455" width="25.1818" height="25.0725"/>
+  <object id="18" name="coin" x="387.255" y="419.44" width="25.2174" height="25.2717"/>
+  <object id="19" name="coin" x="658.75" y="74.7463" width="26.25" height="25.2609"/>
+  <object id="20" name="coin" x="483.293" y="130.648" width="25.3478" height="25.5"/>
+  <object id="21" name="platform" x="835.455" y="640.667" width="18.1818" height="31.3333"/>
+  <object id="22" name="platform" x="871.818" y="612.455" width="16.5455" height="59.5455"/>
+  <object id="33" name="platform" x="899.333" y="581.333" width="24.3333" height="90.3333"/>
+  <object id="34" name="platform" x="931.667" y="549.333" width="25" height="122"/>
+  <object id="35" name="platform" x="964.333" y="516.667" width="24.3333" height="155"/>
+  <object id="36" name="platform" x="995.667" y="485" width="25" height="186.333"/>
+  <object id="37" name="platform" x="1027.33" y="453" width="25" height="218.667"/>
+  <object id="38" name="platform" x="1059.67" y="420.667" width="25" height="251"/>
+  <object id="39" name="platform" x="1092" y="388.333" width="24.6667" height="283.333"/>
+  <object id="41" name="platform" x="1123.67" y="356.333" width="24" height="316"/>
+  <object id="44" name="platform" x="320" y="447.667" width="159.333" height="32"/>
+  <object id="45" name="platform" x="544" y="416" width="63.3333" height="31.3333"/>
+  <object id="46" name="platform" x="640.333" y="384.333" width="63.6667" height="32"/>
+  <object id="47" name="platform" x="736.333" y="352" width="63" height="31.3333"/>
+  <object id="48" name="platform" x="863.667" y="319.333" width="96" height="32.3333"/>
+  <object id="49" name="platform" x="1185.58" y="287.417" width="93.6667" height="31.6667"/>
+  <object id="51" name="platform" x="1058" y="194.667" width="57.3333" height="31.3333"/>
+  <object id="52" name="platform" x="1218" y="258.667" width="26" height="25.3333"/>
+  <object id="53" name="platform" x="960.333" y="160.667" width="62" height="29.6667"/>
+  <object id="54" name="platform" x="769.667" y="161" width="123.333" height="30.6667"/>
+  <object id="55" name="platform" x="579" y="140.5" width="184.5" height="18.5"/>
+  <object id="56" name="platform" x="0" y="160.485" width="574.667" height="31.5151"/>
+  <object id="57" name="ball" x="600.667" y="94.6667" width="30" height="30"/>
+  <object id="58" name="domino" x="90" y="69" width="20" height="90"/>
+  <object id="59" name="domino" x="120" y="69" width="20" height="90"/>
+  <object id="60" name="domino" x="180" y="69" width="20" height="90"/>
+  <object id="62" name="domino" x="150" y="69" width="20" height="90"/>
+  <object id="63" name="platform" x="0" y="0" width="1" height="673.5"/>
+  <object id="64" name="platform" x="1278.99" y="0.163707" width="1" height="672.5"/>
+ </objectgroup>
+</map>
